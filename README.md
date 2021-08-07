@@ -1,2 +1,2 @@
-Grafos All Opera
+Grafos All Operations
 - Vladimir Arturo Sulla Quispe
